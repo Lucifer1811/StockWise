@@ -61,6 +61,17 @@ This repository contains a Python project that combines financial data retrieval
 
 Remember, this application's predictions are based on historical data and machine learning models. They should not be considered as absolute guarantees of future performance. It's crucial to conduct your own research and consider various factors before making any investment decisions.
 
+#Sample Images
+
+1. The PyQt5 user interface:
+   ![image](https://github.com/Lucifer1811/StockWise/assets/98603982/70975396-ef52-4a9d-8c1a-e61395b59b5f)
+
+2. The prediction for tommorow:
+   ![image](https://github.com/Lucifer1811/StockWise/assets/98603982/3fcf6286-cdf4-4e70-afc7-c1d08e020cd7)
+
+3. The Visual Representation:
+   ![image](https://github.com/Lucifer1811/StockWise/assets/98603982/7f9a80d6-900c-4a1b-916d-98dd21275752)
+
 
 ##Acknowledgments:
 
