@@ -8,6 +8,9 @@ The outcomes demonstrated that the system performed with a high degree of accura
 Overall, this study effectively illustrated how machine learning algorithms like Random Forest and LSTM can be used to reliably predict stock prices. The creation and assessment of the system can act as a starting point for further study and the creation of more complex and sophisticated predictive models.
 
 
+## [Live Demonstration link](https://youtu.be/5_97PWqj-l0)
+
+
 Project: Stock Price Prediction with Machine Learning
 
 This repository contains a Python project that combines financial data retrieval, machine learning, and GUI development to predict stock prices using various methods. The application fetches stock data using the `yfinance` library, preprocesses the data, and trains predictive models, including a Random Forest classifier and an LSTM neural network, to forecast future stock prices.
