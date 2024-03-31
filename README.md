@@ -12,7 +12,7 @@ Project: Stock Price Prediction with Machine Learning
 
 This repository contains a Python project that combines financial data retrieval, machine learning, and GUI development to predict stock prices using various methods. The application fetches stock data using the `yfinance` library, preprocesses the data, and trains predictive models, including a Random Forest classifier and an LSTM neural network, to forecast future stock prices.
 
-##Features:
+## Features:
 
 - Data retrieval from Yahoo Finance using `yfinance`.
 - GUI interface built with PyQt5 for user interaction.
@@ -20,7 +20,7 @@ This repository contains a Python project that combines financial data retrieval
 - Development of an LSTM neural network model for stock price prediction.
 - Visualization of actual vs. predicted stock prices using matplotlib.
 
-##Technologies Used:
+## Technologies Used:
 
 - Python
 - PyQt5
@@ -31,7 +31,7 @@ This repository contains a Python project that combines financial data retrieval
 - `keras` (for LSTM model)
 - `matplotlib`
 
-##Getting Started:
+## Getting Started:
 
 1. Clone the repository:
    ```bash
@@ -48,11 +48,15 @@ This repository contains a Python project that combines financial data retrieval
    python main.py
    ```
 
-##Usage:
+## Usage:
 
 1. Enter a valid Yahoo Finance stock code in the GUI.
 2. Click the "Predict" button to initiate stock price prediction.
 3. View the Random Forest predictions and LSTM predictions in the output area.
+
+## Disclaimer:
+
+Remember, this application's predictions are based on historical data and machine learning models. They should not be considered as absolute guarantees of future performance. It's crucial to conduct your own research and consider various factors before making any investment decisions.
 
 
 ##Acknowledgments:
